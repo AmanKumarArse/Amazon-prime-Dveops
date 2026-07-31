@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: prime-video
+  labels:
+    app: prime-video
+
+spec:
+  replicas: 2
+
+  selector:
+    matchLabels:
+      app: prime-video
+
+  template:
+    metadata:
+      labels:
+        app: prime-video
+
+    spec:
+      containers:
+      - name: prime-video
+        image: amankumar189/prime-video-devops:latest
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 80
