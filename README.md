@@ -20,7 +20,7 @@ The application is containerized using Docker, scanned for code quality and secu
 The entire workflow follows GitOps principles where infrastructure changes are driven through Git repositories instead of manual deployments.
 
 > **Note:** This repository contains the application source code and CI/CD pipeline. Kubernetes manifests and Helm charts used by Argo CD are maintained in a separate GitOps repository:
-> https://github.com/blurryface027/prime-video-gitops
+> https://github.com/AmanKumarArse/Amazon-prime-Dveops
 
 # 🛠️ Tech Stack
 
