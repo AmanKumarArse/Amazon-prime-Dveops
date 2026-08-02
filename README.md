@@ -13,7 +13,7 @@ A production-inspired DevOps project demonstrating an automated CI/CD pipeline, 
 
 # 📖 Project Overview
 
-This project demonstrates how a modern DevSecOps pipeline can automate application delivery from source code to a production-ready Kubernetes environment.
+This project demonstrates how a modern DevOps pipeline can automate application delivery from source code to a production-ready Kubernetes environment.
 
 The application is containerized using Docker, scanned for code quality and security vulnerabilities, pushed to Docker Hub, automatically deployed to Amazon EKS using Argo CD and Helm, and continuously monitored with Prometheus and Grafana.
 
@@ -91,7 +91,7 @@ Jenkins Pipeline
 # 📂 Project Structure
 
 ```text
-amazon-prime-devsecops
+amazon-prime-devops
 │
 ├── public/
 ├── src/
