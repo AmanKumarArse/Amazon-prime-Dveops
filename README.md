@@ -1,4 +1,4 @@
-# 🚀 End-to-End DevSecOps CI/CD Pipeline for an Amazon Prime Video Clone using GitOps on Amazon EKS
+# 🚀 End-to-End DevOps CI/CD Pipeline for an Amazon Prime Video Clone using GitOps on Amazon EKS
 
 ![AWS](https://img.shields.io/badge/AWS-EKS-orange?logo=amazonaws)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
