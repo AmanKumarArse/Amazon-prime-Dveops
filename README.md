@@ -9,7 +9,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Visualization-F46800?logo=grafana)
 
-A production-inspired DevSecOps project demonstrating an automated CI/CD pipeline, GitOps deployment strategy, Kubernetes orchestration, and monitoring on **Amazon EKS**.
+A production-inspired DevOps project demonstrating an automated CI/CD pipeline, GitOps deployment strategy, Kubernetes orchestration, and monitoring on **Amazon EKS**.
 
 # 📖 Project Overview
 
